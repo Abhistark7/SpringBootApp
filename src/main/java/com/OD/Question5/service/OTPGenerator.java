@@ -21,9 +21,9 @@ public class OTPGenerator {
     }
 
     //Twilio Account Credentials
-    public static final String ACCOUNT_SID = "AC1c560230c25d721db1930d84b4aa2c0d";
-    public static final String AUTH_TOKEN  = "57a0c3e5fe6cd9f8be597879ebb3f9af";
-    public static final String TWILIO_NUMBER = "+15127649767";
+    public static final String ACCOUNT_SID = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+    public static final String AUTH_TOKEN  = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+    public static final String TWILIO_NUMBER = "+XXXXXXXXXXXX";
     public static String CLIENT_NUMBER = "";
     private static String OTPgen;
 
